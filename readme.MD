@@ -1,4 +1,4 @@
-# Python Project Template
+# Python Anaconda Data Science Project Template
 
 
 
