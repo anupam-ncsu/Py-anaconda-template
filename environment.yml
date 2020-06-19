@@ -1,0 +1,7 @@
+name: conda_venv_1
+prefix: /opt/anaconda3
+channels:
+  - defaults
+dependencies:
+  - pandas=1.0.1
+  - scikit-learn
