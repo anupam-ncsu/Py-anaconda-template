@@ -1,5 +1,6 @@
 # import pandas and scikit learn
 import pandas as pd
+import soupsieve
 from sklearn import linear_model
 
 

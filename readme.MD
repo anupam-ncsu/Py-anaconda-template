@@ -6,7 +6,7 @@
 - System must have python3 , pip3
 ```
 brew install python
-// Homebrew installs both python3 and pip
+// Homebrew installs both python3 and pip3
 ```
 - Install anaconda and activate
 ```zsh
@@ -34,6 +34,7 @@ This project creates such virtual environment using a *.yml file.
 The file specifies a name for the virtual environment and the dependencies .  
 Note: To use a dependcy we need have it installed first on anaconda using the step above.
 
+FYI: This gets you all the things that you can copy over to your virtual environment dependcies. If anything is missing from here, please install them on anaconda navigator first before using them
 ```bash
 conda env export > list.yml
 ```
